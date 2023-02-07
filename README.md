@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spelhateC&layout=compact&langs_count=10)](https://github.com/spelhate?tab=repositories)
+
+<!--
+
+[![RomainLLC's GitHub stats](https://github-readme-stats.vercel.app/api?username=spelhate&show_icons=true&count_private=true&hide_title=true)]
+
+(https://github.com/RomainLLC/RomainLLC)
+
+-->
+
+ 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spelhate&layout=compact&langs_count=10)](https://github.com/spelhate?tab=repositories)
